@@ -105,6 +105,7 @@ ul{
 
 .page-menu{
   margin:0 auto;
+  position:fixed;
   position:absolute;
   top:60px;
   left:270px;
@@ -123,7 +124,7 @@ ul{
 
 .page-menu li{
   padding:4px 0px;
-  font-size:10px;
+  font-size:20px;
   font-weight:bold;
 }
 
